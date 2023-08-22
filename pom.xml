@@ -10,6 +10,11 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>traft-core</module>
+        <module>traft-client</module>
+        <module>traft-test</module>
+        <module>traft-metrics</module>
+        <module>traft-network</module>
+        <module>traft-storage</module>
     </modules>
 
     <properties>

@@ -13,7 +13,6 @@
         <module>traft-test</module>
         <module>traft-metrics</module>
         <module>traft-storage</module>
-        <module>traft-console</module>
     </modules>
 
     <properties>
